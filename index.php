@@ -32,6 +32,7 @@ include 'inc/functions.php';
 	<script src="inc/codemirror/css.js"></script>
 	<script src="inc/codemirror/htmlmixed.js"></script>
 	<script src="inc/codemirror/xml.js"></script>
+	<script src="inc/codemirror/clike.js"></script>
 	<script src="inc/codemirror/php.js"></script>
 	<script src="inc/codemirror/mysql.js"></script>
 </head>
